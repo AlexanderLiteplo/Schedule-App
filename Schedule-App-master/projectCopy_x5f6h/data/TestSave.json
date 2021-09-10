@@ -1,0 +1,160 @@
+{
+    "scheduledBlocks": [
+        {
+            "duration": 1,
+            "timeString": "09:00",
+            "name": "Breakfast",
+            "time": 18,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:30",
+            "name": "Breakfast",
+            "time": 19,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:00",
+            "name": "Coding",
+            "time": 20,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:30",
+            "name": "Coding",
+            "time": 21,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:00",
+            "name": "Coding",
+            "time": 22,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:30",
+            "name": "Coding",
+            "time": 23,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:00",
+            "name": "Lunch",
+            "time": 24,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:30",
+            "name": "Lunch",
+            "time": 25,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:00",
+            "name": "Math Lecture",
+            "time": 26,
+            "category": "Lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:30",
+            "name": "Math Lecture",
+            "time": 27,
+            "category": "Lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:00",
+            "name": "Math Lecture",
+            "time": 28,
+            "category": "Lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:30",
+            "name": "Math Practice Test",
+            "time": 29,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:00",
+            "name": "Math Practice Test",
+            "time": 30,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:30",
+            "name": "Math Practice Test",
+            "time": 31,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:00",
+            "name": "Math Practice Test",
+            "time": 32,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:30",
+            "name": "Math Practice Test",
+            "time": 33,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:00",
+            "name": "Math Practice Test",
+            "time": 34,
+            "category": "study"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:30",
+            "name": "Free Time",
+            "time": 35,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:00",
+            "name": "Free Time",
+            "time": 36,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:30",
+            "name": "Free Time",
+            "time": 37,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:00",
+            "name": "Free Time",
+            "time": 38,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:30",
+            "name": "Free Time",
+            "time": 39,
+            "category": "Free Time"
+        }
+    ],
+    "start": 18,
+    "end": 40
+}

@@ -1,0 +1,202 @@
+{
+    "scheduledBlocks": [
+        {
+            "duration": 1,
+            "timeString": "08:00",
+            "name": "Morning Routine",
+            "time": 16,
+            "category": "Getting Ready"
+        },
+        {
+            "duration": 1,
+            "timeString": "08:30",
+            "name": "Morning Routine",
+            "time": 17,
+            "category": "Getting Ready"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:00",
+            "name": "Free Time",
+            "time": 18,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:30",
+            "name": "Free Time",
+            "time": 19,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:00",
+            "name": "Free Time",
+            "time": 20,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:30",
+            "name": "Free Time",
+            "time": 21,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:00",
+            "name": "Free Time",
+            "time": 22,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:30",
+            "name": "Free Time",
+            "time": 23,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:00",
+            "name": "Free Time",
+            "time": 24,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:30",
+            "name": "Free Time",
+            "time": 25,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:00",
+            "name": "Lunch Break",
+            "time": 26,
+            "category": "Lunch Break"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:30",
+            "name": "Lunch Break",
+            "time": 27,
+            "category": "Lunch Break"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:00",
+            "name": "Free Time",
+            "time": 28,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:30",
+            "name": "Free Time",
+            "time": 29,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:00",
+            "name": "Free Time",
+            "time": 30,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:30",
+            "name": "Free Time",
+            "time": 31,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:00",
+            "name": "Free Time",
+            "time": 32,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:30",
+            "name": "Free Time",
+            "time": 33,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:00",
+            "name": "Free Time",
+            "time": 34,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:30",
+            "name": "Free Time",
+            "time": 35,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:00",
+            "name": "Free Time",
+            "time": 36,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:30",
+            "name": "Free Time",
+            "time": 37,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:00",
+            "name": "Free Time",
+            "time": 38,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:30",
+            "name": "Free Time",
+            "time": 39,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:00",
+            "name": "Free Time",
+            "time": 40,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:30",
+            "name": "Free Time",
+            "time": 41,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:00",
+            "name": "Free Time",
+            "time": 42,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:30",
+            "name": "Free Time",
+            "time": 43,
+            "category": "Free Time"
+        }
+    ],
+    "start": 16,
+    "end": 44
+}

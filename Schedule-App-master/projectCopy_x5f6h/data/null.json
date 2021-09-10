@@ -1,0 +1,202 @@
+{
+    "scheduledBlocks": [
+        {
+            "duration": 1,
+            "timeString": "08:00",
+            "name": "Something",
+            "time": 16,
+            "category": "category1"
+        },
+        {
+            "duration": 1,
+            "timeString": "08:30",
+            "name": "Something",
+            "time": 17,
+            "category": "category1"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:00",
+            "name": "Test",
+            "time": 18,
+            "category": "testing again"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:30",
+            "name": "Test",
+            "time": 19,
+            "category": "testing again"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:00",
+            "name": "Test",
+            "time": 20,
+            "category": "testing again"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:30",
+            "name": "Test",
+            "time": 21,
+            "category": "testing again"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:00",
+            "name": "myTask",
+            "time": 22,
+            "category": "mycategory"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:30",
+            "name": "myTask",
+            "time": 23,
+            "category": "mycategory"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:00",
+            "name": "myothertask",
+            "time": 24,
+            "category": "task"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:30",
+            "name": "myothertask",
+            "time": 25,
+            "category": "task"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:00",
+            "name": "myothertask",
+            "time": 26,
+            "category": "task"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:30",
+            "name": "myothertask",
+            "time": 27,
+            "category": "task"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:00",
+            "name": "myothertask",
+            "time": 28,
+            "category": "task"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:30",
+            "name": "mynewtask",
+            "time": 29,
+            "category": "testyboi"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:00",
+            "name": "mynewtask",
+            "time": 30,
+            "category": "testyboi"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:30",
+            "name": "mynewtask",
+            "time": 31,
+            "category": "testyboi"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:00",
+            "name": "mynewtask",
+            "time": 32,
+            "category": "testyboi"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:30",
+            "name": "taking a dump ",
+            "time": 33,
+            "category": "biology"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:00",
+            "name": "taking a dump ",
+            "time": 34,
+            "category": "biology"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:30",
+            "name": "Free Time",
+            "time": 35,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:00",
+            "name": "Free Time",
+            "time": 36,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:30",
+            "name": "Free Time",
+            "time": 37,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:00",
+            "name": "Free Time",
+            "time": 38,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:30",
+            "name": "Free Time",
+            "time": 39,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:00",
+            "name": "Free Time",
+            "time": 40,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:30",
+            "name": "Free Time",
+            "time": 41,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:00",
+            "name": "Free Time",
+            "time": 42,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:30",
+            "name": "Free Time",
+            "time": 43,
+            "category": "Free Time"
+        }
+    ],
+    "start": 16,
+    "end": 44
+}

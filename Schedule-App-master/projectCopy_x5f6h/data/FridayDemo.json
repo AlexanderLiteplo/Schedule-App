@@ -1,0 +1,202 @@
+{
+    "scheduledBlocks": [
+        {
+            "duration": 1,
+            "timeString": "08:00",
+            "name": "Breakfast",
+            "time": 16,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "08:30",
+            "name": "Breakfast",
+            "time": 17,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:00",
+            "name": "Math",
+            "time": 18,
+            "category": "lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "09:30",
+            "name": "Math",
+            "time": 19,
+            "category": "lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:00",
+            "name": "Math",
+            "time": 20,
+            "category": "lecture"
+        },
+        {
+            "duration": 1,
+            "timeString": "10:30",
+            "name": "Coding",
+            "time": 21,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:00",
+            "name": "Coding",
+            "time": 22,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "11:30",
+            "name": "Coding",
+            "time": 23,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:00",
+            "name": "Lunch",
+            "time": 24,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "12:30",
+            "name": "Lunch",
+            "time": 25,
+            "category": "eating"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:00",
+            "name": "Coding",
+            "time": 26,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "13:30",
+            "name": "Coding",
+            "time": 27,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:00",
+            "name": "Coding",
+            "time": 28,
+            "category": "homework"
+        },
+        {
+            "duration": 1,
+            "timeString": "14:30",
+            "name": "anotherTask",
+            "time": 29,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:00",
+            "name": "anotherTask",
+            "time": 30,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "15:30",
+            "name": "anotherTask",
+            "time": 31,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:00",
+            "name": "anotherTask",
+            "time": 32,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "16:30",
+            "name": "anotherTask",
+            "time": 33,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:00",
+            "name": "anotherTask",
+            "time": 34,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "17:30",
+            "name": "anotherTask",
+            "time": 35,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:00",
+            "name": "anotherTask",
+            "time": 36,
+            "category": "demo"
+        },
+        {
+            "duration": 1,
+            "timeString": "18:30",
+            "name": "Free Time",
+            "time": 37,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:00",
+            "name": "Free Time",
+            "time": 38,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "19:30",
+            "name": "Free Time",
+            "time": 39,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:00",
+            "name": "Free Time",
+            "time": 40,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "20:30",
+            "name": "Free Time",
+            "time": 41,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:00",
+            "name": "Free Time",
+            "time": 42,
+            "category": "Free Time"
+        },
+        {
+            "duration": 1,
+            "timeString": "21:30",
+            "name": "Free Time",
+            "time": 43,
+            "category": "Free Time"
+        }
+    ],
+    "start": 16,
+    "end": 44
+}
